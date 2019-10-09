@@ -1,12 +1,19 @@
-h1 {
-    color: red;
+input{
+    border-radius:50px;
+    }
+
+textarea{
+    border: solid;
 }
-body{
-	background-color:skyblue;
+
+textarea:focus {
+    color:red;
 }
-.purple{
-	color:rebeccapurple;
+
+textarea:focus {border: solid green;
 }
-img{
-	width:300px;
-}
+
+	
+
+
+	
